@@ -1,0 +1,16 @@
+*.swp
+*~
+build/
+.gradle/
+.DS_Store
+
+# JetBrains
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Eclipse
+.settings/
+.project
+.classpath
