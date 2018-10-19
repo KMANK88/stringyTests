@@ -4,6 +4,8 @@ jdk:
   - oraclejdk11
   - oraclejdk9
   - oraclejdk8
-
-
+os:
+  - linux
+  - osx
+  - windows
 script: ./gradlew eclipse
